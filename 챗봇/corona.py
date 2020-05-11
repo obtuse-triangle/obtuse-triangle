@@ -45,7 +45,7 @@ def corona():
     answer = '현재 코로나바이러스 현황입니다.\n\n'
     answer += info
     answer += temp + '\n\n'
-    answer += '출처 : 중앙안전대책본부, 중앙사고수습본부, 중앙방역대책본부\n\n'+'이 코로나 현황은 네이버에서 가져온 결과입니다.\n'
+    answer += '출처 : 중앙안전대책본부, 중앙사고수습본부, 중앙방역대책본부\n\n'+'이 코로나 현황은 네이버에서 가져온 결과입니다.\nCoding by 둔각삼각형'
     end = time.time()
     print("WorkingTime: {} sec".format(end-start))  # 현재시각 - 시작시간 = 실행 시간
     answer += "\nWorkingTime: {} sec".format(end-start)
