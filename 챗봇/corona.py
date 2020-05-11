@@ -8,12 +8,13 @@ import requests
 import urllib
 import json
 app = Flask(__name__)
-# 클리닝 함수
+# 클리닝 함수 (아래 함수를 사용해 웹 사이트에서 받은 내용에는 ,나 괄호 등 필요 없는 내용이 있어 이 내용을 삭제하는 함수이다)
 def clean_text(text):
     cleaned_text = re.sub('[a-zA-Z]', '', text)
     cleaned_text = re.sub('[\{\}\[\]\/?.,;:|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]','', cleaned_text)
     cleaned_text = " ".join(re.split("\s+", cleaned_text, flags=re.UNICODE))
     return cleaned_text
+# URL와 cicle을 전달받고 그 URL로 들어가서 div class=circle부분 내용을 리턴한다
 def get_text(URL, circle):
     source_code_from_URL = urllib.request.urlopen(URL)
     soup = BeautifulSoup(source_code_from_URL, 'lxml', from_encoding='utf-8')
@@ -48,7 +49,7 @@ def corona():
     end = time.time()
     print("WorkingTime: {} sec".format(end-start))  # 현재시각 - 시작시간 = 실행 시간
     answer += "\nWorkingTime: {} sec".format(end-start)
-        # 일반 텍스트형 응답용 메시지
+        # 일반 텍스트 응답형 메시지
     res = {
         "version": "2.0",
         "template": {
