@@ -1,5 +1,6 @@
 # Obtuse triangle
-14Years old, live in Korea
+I'm 14Years old, live in Korea
+
 Web, Python developer
 
 ![](https://img.shields.io/badge/HTML5-black?logo=HTML5) ![](https://img.shields.io/badge/CSS3-black?logo=CSS3) ![](https://img.shields.io/badge/JAVASCRIPT-black?logo=Javascript) ![](https://img.shields.io/badge/nodeJS-black?logo=node.JS)  ![](https://img.shields.io/badge/PYTHON-black?logo=PYTHON) ![](https://img.shields.io/badge/C-black?logo=C) 
