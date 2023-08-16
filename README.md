@@ -1,5 +1,5 @@
 # Obtuse triangle
-I'm 15Years old, live in Korea
+I'm 16Years old, live in Korea
 
 Web, Python developer
 
