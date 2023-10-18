@@ -8,3 +8,4 @@ Web, Python developer
 
 
 [![obtuse-triangle's GitHub stats](https://github-readme-stats.vercel.app/api?username=obtuse-triangle)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=obtuse)](https://solved.ac/obtuse)
