@@ -1,4 +1,4 @@
-# Obtuse triangle
+# [Obtuse triangle](https://obtuse.kr)
 I'm 16Years old, live in Korea
 
 Web, Python developer
@@ -9,3 +9,5 @@ Web, Python developer
 
 [![obtuse-triangle's GitHub stats](https://github-readme-stats.vercel.app/api?username=obtuse-triangle)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=obtuse)](https://solved.ac/obtuse)
+
+[BLOG](https://obtuse.kr/blog) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[triangle Drop](https://triangledrop.obtuse.kr)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[zippedPage](https://zip.obtuse.kr)
