@@ -4,7 +4,10 @@
 ![](https://img.shields.io/badge/Ubuntu-black?logo=ubuntu) ![](https://img.shields.io/badge/Nginx-black?logo=nginx) ![](https://img.shields.io/badge/MySql-black?logo=MySql)
 
 
-[![obtuse-triangle's GitHub stats](https://github-readme-stats.vercel.app/api?username=obtuse-triangle)](https://github.com/anuraghazra/github-readme-stats)
+![obtuse-triangle's GitHub stats](https://github-readme-stats.vercel.app/api?username=obtuse-triangle&theme=dracula&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obtuse-triangle&layout=compact&theme=dracula)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=obtuse)](https://solved.ac/obtuse)
 
 [BLOG](https://obtuse.kr/blog) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[triangle Drop](https://triangledrop.obtuse.kr)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[zippedPage](https://zip.obtuse.kr)
