@@ -10,4 +10,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=obtuse)](https://solved.ac/obtuse)
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NY0510&repo=triangleDrop)](https://github.com/NY0510/triangleDrop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=obtuse-triangle&repo=zippedPage)](https://github.com/obtuse-triangle/zippedPage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=obtuse-triangle&repo=neisScheduleToICS)](https://github.com/obtuse-triangle/neisScheduleToICS)
+
+
 [BLOG](https://obtuse.kr/blog) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[triangle Drop](https://triangledrop.obtuse.kr)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[zippedPage](https://zip.obtuse.kr)
