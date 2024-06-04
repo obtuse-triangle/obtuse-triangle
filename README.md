@@ -11,7 +11,7 @@
 [![My Tools Skills](https://skillicons.dev/icons?i=git,postman)](https://skillicons.dev)
 ### Embedded
 [![My embedded Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
-## Design
+### Design
 [![My Design Skills](https://skillicons.dev/icons?i=figma,ps,ai,pr,ae)](https://skillicons.dev)
 
 
