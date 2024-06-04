@@ -8,6 +8,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obtuse-triangle&layout=compact&theme=dracula)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=obtuse)](https://solved.ac/obtuse)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=obtuse)](https://solved.ac/obtuse)
 
 [BLOG](https://obtuse.kr/blog) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[triangle Drop](https://triangledrop.obtuse.kr)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[zippedPage](https://zip.obtuse.kr)
