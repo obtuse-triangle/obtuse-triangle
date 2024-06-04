@@ -9,11 +9,10 @@
 [![My Server Skills](https://skillicons.dev/icons?i=linux,ubuntu,nginx,mysql,sqlite)](https://skillicons.dev)
 #### Tools
 [![My Tools Skills](https://skillicons.dev/icons?i=vscode,vim,git,postman)](https://skillicons.dev)
-#### Embedded
-[![My embedded Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 #### Design
 [![My Design Skills](https://skillicons.dev/icons?i=figma,ps,ai,pr,ae)](https://skillicons.dev)
-
+#### Others
+[![My Others Skills](https://skillicons.dev/icons?i=arduino,opencv,jquery,cloudflare)](https://skillicons.dev)
 
 ## Github Stats
 ![obtuse-triangle's GitHub stats](https://github-readme-stats.vercel.app/api?username=obtuse-triangle&theme=dracula&show_icons=true)
