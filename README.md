@@ -1,17 +1,17 @@
 # 👋 Hi There!
 
 ## Skills
-### Language
+#### Language
 [![My Languages Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,py,c)](https://skillicons.dev)
-### Frameworks
+#### Frameworks
 [![My Frameworks Skills](https://skillicons.dev/icons?i=express,flask,fastapi)](https://skillicons.dev)
-### Server
+#### Server
 [![My Server Skills](https://skillicons.dev/icons?i=linux,ubuntu,nginx,mysql,sqlite)](https://skillicons.dev)
-### Tools
-[![My Tools Skills](https://skillicons.dev/icons?i=git,postman)](https://skillicons.dev)
-### Embedded
+#### Tools
+[![My Tools Skills](https://skillicons.dev/icons?i=vscode,git,postman)](https://skillicons.dev)
+#### Embedded
 [![My embedded Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
-### Design
+#### Design
 [![My Design Skills](https://skillicons.dev/icons?i=figma,ps,ai,pr,ae)](https://skillicons.dev)
 
 
