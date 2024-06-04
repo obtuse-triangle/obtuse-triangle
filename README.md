@@ -4,11 +4,11 @@
 #### Language
 [![My Languages Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,py,c)](https://skillicons.dev)
 #### Frameworks
-[![My Frameworks Skills](https://skillicons.dev/icons?i=express,flask,fastapi)](https://skillicons.dev)
+[![My Frameworks Skills](https://skillicons.dev/icons?i=express,flask,fastapi,selenium)](https://skillicons.dev)
 #### Server
 [![My Server Skills](https://skillicons.dev/icons?i=linux,ubuntu,nginx,mysql,sqlite)](https://skillicons.dev)
 #### Tools
-[![My Tools Skills](https://skillicons.dev/icons?i=vscode,git,postman)](https://skillicons.dev)
+[![My Tools Skills](https://skillicons.dev/icons?i=vscode,vim,git,postman)](https://skillicons.dev)
 #### Embedded
 [![My embedded Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 #### Design
